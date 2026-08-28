@@ -1,4 +1,4 @@
-# Lab#2 OPC UA
+# OPC UA Simulation & Analysis 
 
 I am studying the OPC UA protocol. I will simulate OPC UA server and client communication on my Kali Linux VM using simple Python scripts. The scope is narrow: I just want to see the communication. The lab won't replicate the physical reality where sensors and actuators connect to a PLC, then to an OPC UA server, and then upward to an HMI, MES, and so on.
 
