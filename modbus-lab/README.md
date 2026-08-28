@@ -1,4 +1,4 @@
-# Lab#1 Modbus Wireshark
+# Modbus TCP Wireshark Lab
 
 I am studying about the Modbus protocol, to better understand the OT environment I am working at.
 
