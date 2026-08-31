@@ -2,7 +2,7 @@
 
 For this lab, I am doing adversary emulation in an OT/ICS environment. I will simulate the TTPs of an actual threat group called `AZURITE` (Dragos' term)
 
-I will use the MITRE ATT&CK frameworks (Enterprise & ICS) and Dragos' resources to build this simulation. (Obviously the only thing I can use is publicly available information about this group, so most of the attack chain is hypothetical, a **product of my imagination!**)
+I will use the MITRE ATT&CK frameworks (Enterprise & ICS) and Dragos' resources to build this simulation. (Obviously the only thing I can use is publicly available information about this group, so most of the attack chain is **hypothetical, a product of my imagination!**)
 
 ![image.png](images/image.png)
 
