@@ -1,6 +1,6 @@
 # Adversary Attack Path Simulation (AZURITE)
 
-For this lab, I am doing adversary emulation in an OT/ICS environment. I will simulate the TTPs of an actual threat group called `AZURITE` (Dragos' term)
+For this lab, I am doing adversary emulation in an OT/ICS environment. I will simulate the TTPs of an actual threat group called `AZURITE` (Dragos' term). AZURITE is a Dragos-tracked OT/ICS threat group. Dragos reports technical overlap with Flax Typhoon and Ethereal Panda, both of which are widely tracked as China-linked actors.
 
 I will use the MITRE ATT&CK frameworks (Enterprise & ICS) and Dragos' resources to build this simulation. (Obviously the only thing I can use is publicly available information about this group, so most of the attack chain is **hypothetical, a product of my imagination!**)
 
