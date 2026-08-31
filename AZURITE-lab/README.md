@@ -4,6 +4,8 @@ For this lab, I am doing adversary emulation in an OT/ICS environment. I will si
 
 I will use the MITRE ATT&CK frameworks (Enterprise & ICS) and Dragos' resources to build this simulation. (Obviously the only thing I can use is publicly available information about this group, so most of the attack chain is **hypothetical, a product of my imagination!**)
 
+This isn't meant to be an academic paper or a professional threat report, it's purely for my own learning.
+
 ![image.png](images/image.png)
 
 ![image.png](images/image%201.png)
