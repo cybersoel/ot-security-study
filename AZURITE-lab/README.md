@@ -64,15 +64,15 @@ With data from OPC UA and other endpoints connected to the jump server, like MES
 
 Phase 7 — Exfilteration 
 
-My scenario ends here. The attacker exfiltrates all the data through the C2 channel (i.e., the VPS infrastructure). The compromised OPC UA/HMI/SCADA infrastructure could potentially provide a path toward process manipulation if write privileges were available.
+My scenario ends here. The attacker exfiltrates all the data through the C2 channel (i.e., the VPS infrastructure). Based on Dragos's public reporting, AZURITE's observed activity is centered on theft/collection of OT operational information, not demonstrated process disruption.
 
-However, based on Dragos's public reporting, AZURITE's observed activity is centered on theft/collection of OT operational information, not demonstrated process disruption.
+However, the compromised OPC UA/HMI/SCADA infrastructure could potentially provide a path toward process manipulation if write privileges were available.
 
 ![image.png](images/image%208.png)
 
 Conclusion/lesson learned
 
-It was very interesting to use three materials together: Dragos' threat group report, the Enterprise MITRE ATT&CK matrix, and the ICS ATT&CK matrix. My offensive knowledge and skill aren't comparable to real APT groups, but I did my best to build a realistic attack path simulation based on the information available about AZURITE.
+It was very interesting to use three materials together: Dragos' threat group report, the Enterprise MITRE ATT&CK matrix, and the ICS ATT&CK matrix. My offensive knowledge and skill aren't comparable to real APT groups, and probabily `AZURITE`'s attack chains are much more complicated in reality, but I did my best to build a realistic attack path simulation based on the information available about AZURITE and my offensive knowledge.
 
 It was also interesting to see exactly how an IT-side attack converts into an OT-side attack, the pivot points, the credentials that carry over, the moment a purely enterprise compromise becomes an OT problem. Since I work in an OT environment myself, I could relate to a lot of this directly, and walking through it from the attacker's side gave me a better sense of what to watch for as a defender.
 
