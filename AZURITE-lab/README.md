@@ -1,4 +1,4 @@
-# Lab#3: Adversary Attack Path Simulation (AZURITE)
+# Adversary Attack Path Simulation (AZURITE)
 
 For this lab, I am doing adversary emulation in an OT/ICS environment. I will simulate the TTPs of an actual threat group called `AZURITE` (Dragos' term)
 
